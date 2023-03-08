@@ -10,7 +10,7 @@ to have my readme files neater and more professional
 
 ## Usage
 
-thy will run "node index.js" in the terminal, then answer all of the questions and when completed a file should appear
+they will run "node index.js" in the terminal, then answer all of the questions and when completed a file should appear
 
 ## License
 
